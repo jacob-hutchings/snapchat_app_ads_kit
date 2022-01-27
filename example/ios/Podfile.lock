@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - SCAppAdsKit (2.1.0)
+  - snapchat_app_ads_kit (0.0.1):
+    - Flutter
+    - SCAppAdsKit
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - snapchat_app_ads_kit (from `.symlinks/plugins/snapchat_app_ads_kit/ios`)
+
+SPEC REPOS:
+  trunk:
+    - SCAppAdsKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  snapchat_app_ads_kit:
+    :path: ".symlinks/plugins/snapchat_app_ads_kit/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  SCAppAdsKit: e70246b82a9d1c1e321703fa2f6f92ea3832949d
+  snapchat_app_ads_kit: 3ae76017cc47516dbf3b2b113a56cd1a37ad1561
+
+PODFILE CHECKSUM: 3dffd8c48b531d21ec0ec153c22dc8e3a6223bc9
+
+COCOAPODS: 1.11.2
